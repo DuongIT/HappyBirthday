@@ -1,0 +1,21 @@
+/* PC */
+@media (min-width: 1024px) {
+
+}
+
+/* Tablet */
+@media (min-width: 740px) and (max-width:1023px) {
+    
+}
+
+/* Mobile */
+@media (max-width: 740px) {
+    .container .boxcontainer {
+        width: 90%;
+    }
+
+    .boxMail .boxMail-container:hover .card2-content {
+        transform: translate(5px, 5px);
+    }
+    
+}
